@@ -120,4 +120,4 @@ Then, we inform that the command was executed -> `return true`.
 
 ## Example of use
 
-![[Pasted image 20230808233753.png]]
+![Example](images/Pasted%20image%2020230808233753.png)
